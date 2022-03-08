@@ -7,3 +7,4 @@ Rebase's forum
 - [2022年会是DAO元年吗](https://github.com/rebase-network/hello-world/discussions/36) 2022-03-08
 - [符号学在nft时尚产品中的应用研究](https://github.com/rebase-network/hello-world/discussions/41) 2022-03-08
 - [从哪几方面能快速进入build?](https://github.com/rebase-network/hello-world/discussions/43) 2022-03-08
+- [可以查看gas费的app](https://github.com/rebase-network/hello-world/discussions/45) 2022-03-08
