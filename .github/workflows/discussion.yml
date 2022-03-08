@@ -1,0 +1,27 @@
+on:
+  discussion:
+    types: [created]
+
+  workflow_dispatch:
+
+jobs:
+
+  discussions-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Change README.md
+        run: |
+          time=$(date +%F -d "${{github.event.discussion.updated_at}}")
+          echo "- [${{ github.event.discussion.title}}](${{github.event.discussion.html_url}}) $time" >> README.md
+      - name: Commit files
+        run: |
+          git config --local user.name ${{ github.actor }}
+          git add README.md
+          git commit -m "(Automated) add new discussion"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
