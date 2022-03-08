@@ -9,3 +9,4 @@ Rebase's forum
 - [从哪几方面能快速进入build?](https://github.com/rebase-network/hello-world/discussions/43) 2022-03-08
 - [可以查看gas费的app](https://github.com/rebase-network/hello-world/discussions/45) 2022-03-08
 - [FT, NFT 多平台发布管理平台](https://github.com/rebase-network/hello-world/discussions/47) 2022-03-08
+- [NFT流动性的想法](https://github.com/rebase-network/hello-world/discussions/49) 2022-03-08
