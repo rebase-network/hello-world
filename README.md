@@ -17,3 +17,4 @@ Rebase's forum
 - [传统工具类app有必要上链吗](https://github.com/rebase-network/hello-world/discussions/58) 2022-03-09
 - [NFT项目防科学家机器人的链上验证码项目](https://github.com/rebase-network/hello-world/discussions/60) 2022-03-09
 - [技术分享: 以太坊scaling](https://github.com/rebase-network/hello-world/discussions/63) 2022-03-09
+- [NFT价值的来源探索](https://github.com/rebase-network/hello-world/discussions/65) 2022-03-09
