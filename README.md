@@ -18,3 +18,4 @@ Rebase's forum
 - [NFT项目防科学家机器人的链上验证码项目](https://github.com/rebase-network/hello-world/discussions/60) 2022-03-09
 - [技术分享: 以太坊scaling](https://github.com/rebase-network/hello-world/discussions/63) 2022-03-09
 - [NFT价值的来源探索](https://github.com/rebase-network/hello-world/discussions/65) 2022-03-09
+- [NFT 的实际应用价值](https://github.com/rebase-network/hello-world/discussions/66) 2022-03-10
