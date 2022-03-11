@@ -19,3 +19,4 @@ Rebase's forum
 - [技术分享: 以太坊scaling](https://github.com/rebase-network/hello-world/discussions/63) 2022-03-09
 - [NFT价值的来源探索](https://github.com/rebase-network/hello-world/discussions/65) 2022-03-09
 - [NFT 的实际应用价值](https://github.com/rebase-network/hello-world/discussions/66) 2022-03-10
+- [一个想法，NFT捐赠](https://github.com/rebase-network/hello-world/discussions/67) 2022-03-11
