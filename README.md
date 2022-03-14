@@ -20,3 +20,4 @@ Rebase's forum
 - [NFT价值的来源探索](https://github.com/rebase-network/hello-world/discussions/65) 2022-03-09
 - [NFT 的实际应用价值](https://github.com/rebase-network/hello-world/discussions/66) 2022-03-10
 - [一个想法，NFT捐赠](https://github.com/rebase-network/hello-world/discussions/67) 2022-03-11
+- [市场痛点：链上预言机价格，急需降低成本](https://github.com/rebase-network/hello-world/discussions/70) 2022-03-14
