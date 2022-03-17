@@ -22,3 +22,4 @@ Rebase's forum
 - [一个想法，NFT捐赠](https://github.com/rebase-network/hello-world/discussions/67) 2022-03-11
 - [市场痛点：链上预言机价格，急需降低成本](https://github.com/rebase-network/hello-world/discussions/70) 2022-03-14
 - [征集论坛 NFT 设计创意和设计人员](https://github.com/rebase-network/hello-world/discussions/71) 2022-03-14
+- [OpenZeppelin 的在线合约生成器](https://github.com/rebase-network/hello-world/discussions/73) 2022-03-17
