@@ -26,3 +26,4 @@
 - [OpenZeppelin 的在线合约生成器](https://github.com/rebase-network/hello-world/discussions/73) 2022-03-17
 - [NFT的空投，如何科学确权](https://github.com/rebase-network/hello-world/discussions/77) 2022-03-19
 - [有朋友可以分享 Eth Foundry 的使用体验么](https://github.com/rebase-network/hello-world/discussions/91) 2022-03-30
+- [30 个字介绍一个项目，介绍被选中后会获得一个 NFT](https://github.com/rebase-network/hello-world/discussions/107) 2022-04-16
