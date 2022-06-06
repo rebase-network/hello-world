@@ -30,3 +30,4 @@
 - [有vyper的教程嘛](https://github.com/rebase-network/hello-world/discussions/109) 2022-04-20
 - [dune.com 推出了新的engine](https://github.com/rebase-network/hello-world/discussions/131) 2022-05-30
 - [链上数据分析之- Terra帝国的瓦解，谁是始作俑者？攻击者，套利者，CEX，DEX间的较量](https://github.com/rebase-network/hello-world/discussions/140) 2022-06-05
+- [[黑客松组队请求] Public Goods NFT 交易市场寻找 React 开发和产品经理](https://github.com/rebase-network/hello-world/discussions/141) 2022-06-06
