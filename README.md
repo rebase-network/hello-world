@@ -33,3 +33,4 @@
 - [[黑客松组队请求] Public Goods NFT 交易市场寻找 React 开发和产品经理](https://github.com/rebase-network/hello-world/discussions/141) 2022-06-06
 - [以太坊的终极扩容解决方案Danksharding-上篇](https://github.com/rebase-network/hello-world/discussions/159) 2022-06-17
 - [详解CosmWasm: 兼具Cosmos SDK 和IBC的跨链智能合约引擎](https://github.com/rebase-network/hello-world/discussions/161) 2022-06-17
+- [gnosis-safe 是否可以开启行为白名单？](https://github.com/rebase-network/hello-world/discussions/228) 2022-09-13
