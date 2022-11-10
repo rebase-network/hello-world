@@ -35,3 +35,4 @@
 - [详解CosmWasm: 兼具Cosmos SDK 和IBC的跨链智能合约引擎](https://github.com/rebase-network/hello-world/discussions/161) 2022-06-17
 - [gnosis-safe 是否可以开启行为白名单？](https://github.com/rebase-network/hello-world/discussions/228) 2022-09-13
 - [The title](https://github.com/rebase-network/hello-world/discussions/276) 2022-11-10
+- [The title](https://github.com/rebase-network/hello-world/discussions/277) 2022-11-10
