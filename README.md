@@ -35,3 +35,4 @@
 - [详解 CosmWasm: 兼具 Cosmos SDK 和 IBC 的跨链智能合约引擎](https://github.com/rebase-network/hello-world/discussions/161) 2022-06-17
 - [gnosis-safe 是否可以开启行为白名单？](https://github.com/rebase-network/hello-world/discussions/228) 2022-09-13
 - [关于 uni v3 剩余 token 数量的获取](https://github.com/rebase-network/hello-world/discussions/341) 2023-03-21
+- [11 月 29 日，请锁定研讨会：The Ultimate Risk: RISC-V](https://github.com/rebase-network/hello-world/discussions/453) 2023-11-03
