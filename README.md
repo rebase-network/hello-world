@@ -36,3 +36,4 @@
 - [gnosis-safe 是否可以开启行为白名单？](https://github.com/rebase-network/hello-world/discussions/228) 2022-09-13
 - [关于 uni v3 剩余 token 数量的获取](https://github.com/rebase-network/hello-world/discussions/341) 2023-03-21
 - [11 月 29 日，请锁定研讨会：The Ultimate Risk: RISC-V](https://github.com/rebase-network/hello-world/discussions/453) 2023-11-03
+- [招一位 Technical Partner｜一起做 Digital Assets / Blockchain](https://github.com/rebase-network/hello-world/discussions/1200) 2026-08-31
